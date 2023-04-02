@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DiceGame</string>
+    <string name="new_game">New Game</string>
+    <string name="about">About</string>
+    <string name="throwDice">Throw</string>
+    <string name="score">Score</string>
+    <string name="player">Player</string>
+    <string name="computer">Computer</string>
+    <string name="player_score">Player Score</string>
+    <string name="dice">Dice</string>
+    <string name="computer_score">Computer Score</string>
+    <string name="reroll">Reroll</string>
+    <string name="target">Target</string>
+    <string name="wins">H: 0 / C: 0</string>
+    <string name="target_101">Target : 101</string>
+</resources>

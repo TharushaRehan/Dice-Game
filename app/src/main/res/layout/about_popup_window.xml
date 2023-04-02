@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="360dp"
+    android:layout_height="wrap_content"
+    android:background="#DDDFE3"
+    android:layout_margin="25dp">
+
+    <TextView
+        android:id="@+id/txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="30dp"
+        android:textSize="22sp"
+        android:text="\nStudent Name - B. Tharusha Rehan Perera\n\n\nUndergraduate at Informatics Institute of Technology affiliated with University of Westminster"/>
+
+</RelativeLayout>
